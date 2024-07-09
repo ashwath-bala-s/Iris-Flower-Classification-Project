@@ -2,7 +2,10 @@
 
 **Introduction:**
 
+Classification of Iris flowers based on their botanical features is a classification problem in the field of machine learning. The Iris dataset, comprising measurements of sepal and petal dimensions of three Iris flower species, serves as a benchmark for introductory classification tasks. This project aims to leverage machine learning algorithms to accurately classify Iris flowers into their respective species based on these measurements.
+
 **Problem Statement:**
+
 The objective of this project is to develop a machine learning model capable to classify iris flowers into three species: Setosa, Versicolor, and Virginica, based on sepal and petal measurements. Using the dataset which includes features such as sepal length, sepal width, petal length, and petal width, the model will learn to distinguish between the different species. 
 
 **Dataset:**
